@@ -8,3 +8,5 @@ bb84.py - protocol implementation
 attack.py - Simulate Eve's attack
 
 detect.py - Detect eavesdropping
+
+README.md - brief description of the project
